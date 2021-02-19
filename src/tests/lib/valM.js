@@ -100,7 +100,7 @@ describe('Test valM function', () => {
 					'fullname': {'firstname': 'Anwesha', 'lastname': 'Ghosh'},
 					'dob': {'date': 15, 'month': 7, 'year': 1994},
 					'contactnumber':	{'countrycode':'91', 'phonenumber':'8961686789'},
-					'email': 'meanwesha1@wipro.com',
+					'email': 'meanwesha1@gmail.com',
 					'pan': 'ALWPG5809L',
 				},
 				'schema':  toJson(

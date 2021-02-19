@@ -7,7 +7,7 @@ var input = {
 		'username': 'anwesha115',
 		'dob': {'date': 15, 'month': 7, 'year': 1994},
 		'contactnumber':	{'countrycode':'RU', 'phonenumber':'8005553535'},
-		'email': 'anwesha.ghosh@wipro.com',
+		'email': 'anwesha.ghosh@gmail.com',
 		'pswd': 'abcC_3',
 		'address': {
 			'country': 'India',
