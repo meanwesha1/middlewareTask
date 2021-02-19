@@ -1,0 +1,26 @@
+{
+  "name": "middlewareTask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha ./tests --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.3.0",
+    "json-joi-converter": "^17.2.1-a"
+  },
+  "devDependencies": {
+    "awesome-phonenumber": "^2.46.0",
+    "chai": "^4.2.0",
+    "format-utils": "0.0.5",
+    "sinon": "^9.2.4"
+  }
+}

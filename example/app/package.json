@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-phonenumber": "^2.46.0",
+    "express": "^4.17.1",
+    "format-utils": "0.0.5",
+    "joi": "^17.3.0",
+    "json-joi-converter": "^17.2.1-a",
+    "mongoose": "^5.11.13"
+  }
+}
